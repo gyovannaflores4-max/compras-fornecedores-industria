@@ -1,0 +1,33 @@
+﻿id_item;descricao;categoria;unidade
+1;Borracha sintética SBR;Matéria-prima;kg
+2;Negro de fumo N330;Matéria-prima;kg
+3;Aço laminado a frio;Matéria-prima;kg
+4;Resina de polipropileno;Matéria-prima;kg
+5;Óleo plastificante;Matéria-prima;L
+6;Arame de aço galvanizado;Matéria-prima;kg
+7;Tecido de poliéster técnico;Matéria-prima;m
+8;Pigmento dióxido de titânio;Matéria-prima;kg
+9;Caixa de papelão ondulado;Embalagens;un
+10;Filme stretch;Embalagens;rolo
+11;Pallet de madeira PBR;Embalagens;un
+12;Etiqueta adesiva térmica;Embalagens;milheiro
+13;Fita adesiva industrial;Embalagens;rolo
+14;Rolamento 6205;Manutenção (MRO);un
+15;Correia em V;Manutenção (MRO);un
+16;Graxa industrial;Manutenção (MRO);kg
+17;Filtro hidráulico;Manutenção (MRO);un
+18;Motor elétrico 5 CV;Manutenção (MRO);un
+19;Válvula pneumática;Manutenção (MRO);un
+20;Disjuntor tripolar;Manutenção (MRO);un
+21;Luva nitrílica;EPI;par
+22;Óculos de proteção;EPI;un
+23;Protetor auricular plug;EPI;par
+24;Botina de segurança;EPI;par
+25;Capacete de segurança;EPI;un
+26;Calibração de instrumentos;Serviços;serviço
+27;Manutenção de empilhadeira;Serviços;serviço
+28;Análise laboratorial;Serviços;serviço
+29;Frete fracionado;Serviços;serviço
+30;Papel A4 resma;Material de escritório;un
+31;Toner impressora;Material de escritório;un
+32;Kit de canetas;Material de escritório;kit

@@ -1,0 +1,41 @@
+﻿id_fornecedor;nome;uf;cidade;categoria_principal;porte
+1;Forte Metais  ;SP;Guarulhos;Matéria-prima;Pequeno
+2;Rota Aços;SP;Guarulhos;Matéria-prima;Grande
+3;Forte Química;SC;Joinville;Matéria-prima;Pequeno
+4;Sul Polímeros;RJ;Duque de Caxias;Matéria-prima;Grande
+5;Rota Insumos Industriais;SP;Guarulhos;Matéria-prima;Pequeno
+6;Ideal Aços  ;SP;Campinas;Matéria-prima;Grande
+7;Global Química  ;SP;Campinas;Matéria-prima;Pequeno
+8;Rota Química;RJ;Rio de Janeiro;Matéria-prima;Grande
+9;Brasil Aços;SP;São Paulo;Matéria-prima;Médio
+10;Vale Polímeros;MG;Contagem;Matéria-prima;Pequeno
+11;Sul Embalagens;SP;São Paulo;Embalagens;Pequeno
+12;Atlas Embalagens;RJ;Rio de Janeiro;Embalagens;Grande
+13;Líder Papelão;MG;Juiz de Fora;Embalagens;Grande
+14;Líder Pack;BA;Camaçari;Embalagens;Grande
+15;Líder Embalagens;RS;Caxias do Sul;Embalagens;Pequeno
+16;Vale Embalagens;MG;Juiz de Fora;Embalagens;Médio
+17;Nova Embalagens;SP;Guarulhos;Embalagens;Pequeno
+18;Prime Rolamentos;SP;São Paulo;Manutenção (MRO);Grande
+19;Total Elétrica;RJ;Volta Redonda;Manutenção (MRO);Pequeno
+20;Atlas Automação  ;MG;Belo Horizonte;Manutenção (MRO);Pequeno
+21;Líder Rolamentos;SP;São Paulo;Manutenção (MRO);Pequeno
+22;Nova Industrial Peças;MG;Juiz de Fora;Manutenção (MRO);Pequeno
+23;Sul Automação;RJ;Volta Redonda;Manutenção (MRO);Médio
+24;Master Rolamentos;SC;Joinville;Manutenção (MRO);Pequeno
+25;Brasil Elétrica;PR;Curitiba;Manutenção (MRO);Grande
+26;Rota Elétrica;SC;Joinville;Manutenção (MRO);Grande
+27;Master Segurança  ;RJ;Rio de Janeiro;EPI;Pequeno
+28;Beta Segurança  ;BA;Camaçari;EPI;Grande
+29;Total Segurança;MG;Belo Horizonte;EPI;Grande
+30;Prime EPI;RS;Caxias do Sul;EPI;Médio
+31;Mega Proteção;MG;Contagem;EPI;Pequeno
+32;Master Serviços Técnicos  ;RJ;Duque de Caxias;Serviços;Grande
+33;Beta Logística  ;PR;Curitiba;Serviços;Médio
+34;Rota Serviços Técnicos;RJ;Itaguaí;Serviços;Médio
+35;Beta Laboratórios  ;RS;Caxias do Sul;Serviços;Médio
+36;Real Laboratórios;BA;Camaçari;Serviços;Pequeno
+37;Sul Papelaria;SP;Sorocaba;Material de escritório;Grande
+38;Global Office;RJ;Volta Redonda;Material de escritório;Grande
+39;Total Office;PR;Curitiba;Material de escritório;Pequeno
+40;Nova Papelaria;RS;Caxias do Sul;Material de escritório;Grande
